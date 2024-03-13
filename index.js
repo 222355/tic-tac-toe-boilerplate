@@ -5,6 +5,7 @@ const grid = document.querySelectorAll(".box")
 for(var i = 0 ; i < grid.length ; i++){
     gridArr[i] = grid[i]
 }
+console.log(gridArr)
 
   let turn = true;
 document.addEventListener("click",function(){

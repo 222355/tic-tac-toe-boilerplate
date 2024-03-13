@@ -8,3 +8,4 @@ const play_button = document.getElementById("play-button");
 play_button.addEventListener("click",function(){
     window.open('index.html','_self')
 })
+
