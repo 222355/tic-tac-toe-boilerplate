@@ -98,3 +98,9 @@ a{
         font-size: 35px;
     }
 }
+.container,.box {
+    color:#FAB201; 
+    display: grid;
+    place-items: center;
+    font-size: 50px;
+}
