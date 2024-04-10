@@ -5,9 +5,6 @@ const grid = document.querySelectorAll(".box")
 for(var i = 0 ; i < grid.length ; i++){
     gridArr[i] = grid[i]
 }
-<<<<<<< H
-=======
->>>>>>> 5f8ab25a115c2be9d06830828d48f42d639c0afc
 
   let turn = true;
 document.addEventListener("click",function(){
